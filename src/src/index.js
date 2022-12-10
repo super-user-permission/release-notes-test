@@ -6,6 +6,7 @@ function ReactNewComponent() {
     return (
         <div>
             <span>New data</span>
+            <span>New span</span>
         </div>
     )
 }
