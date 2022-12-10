@@ -7,6 +7,7 @@ function ReactNewComponent() {
     return (
         <div>
             <span>New data</span>
+            <div>New div added</div>
         </div>
     )
 }
