@@ -6,7 +6,7 @@ function ReactNewComponent() {
 
     return (
         <div>
-            <span>New data fooled rooted googled</span>
+            <span>New data</span>
         </div>
     )
 }
